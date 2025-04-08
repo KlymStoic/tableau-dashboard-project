@@ -1,13 +1,14 @@
 # Seattle Airbnb Market Dashboard
 
-An interactive Tableau dashboard that visualizes open-source Airbnb data for Seattle. This project provides insights into listings by bedroom count, average prices by neighborhood, and revenue trends across different time periods. Whether you’re a data enthusiast, student, or professional, this repository serves as a reference for building clear and engaging data visualizations with Tableau.
+An interactive Tableau dashboard that visualizes open-source Airbnb data for Seattle. This project provides insights into listings by bedroom count, average prices by neighborhood, and revenue trends across different time periods.
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Dashboard Preview](#dashboard-preview)
-- [Dashboard Features](#dashboard-features)
+- [Key Features](#key-features)
 - [Published Dashboard](#published-dashboard)
+- [Data Source](#data-source)
 - [License](#license)
 
 ## Overview
@@ -16,26 +17,34 @@ The goal of this project is to analyze Airbnb listings in Seattle by examining f
 
 ## Dashboard Preview
 
-![Seattle Airbnb Market Dashboard screenshot](docs/Screenshot.png)
+![Seattle Airbnb Market Dashboard screenshot](Screenshot.png)
 
-## Dashboard Features
+## Key Features
 
-- **Listings & Revenue Analysis:**  
-  Visualizations showing how revenue and listings vary by the number of bedrooms and other parameters.
-  
-- **Geographical Insights:**  
-  Mapping and bar chart views display average pricing and market trends across different zip codes.
+- **Comprehensive Listings & Revenue Analysis:**  
+  Gain insights through detailed visualizations that illustrate how revenue and listings change with various parameters, such as the number of bedrooms.
 
-- **Interactive Elements:**  
-  Filters and tooltips allow users to explore various aspects of the data interactively.
+- **Detailed Geographical Insights:**  
+  Explore market trends across Seattle with interactive maps and bar charts that highlight average pricing variations by zip code.
+
+- **Enhanced Interactivity:**  
+  Utilize dynamic filters and tooltips that empower users to dive into the data, uncover trends, and extract tailored insights.
 
 ## Published Dashboard
 
-This dashboard is also publicly accessible on Tableau Public:
+This dashboard is publicly accessible on Tableau Public:
 
 **[Seattle Airbnb Market Dashboard on Tableau Public](https://public.tableau.com/views/AirbnbSeattleProject_17441197506480/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-Feel free to view, interact, and share with others who might benefit from these insights.
+Feel free to view, interact, and share with others who might benefit from these insights. For the best experience, view the dashboard in full screen mode.
+
+## Data Source
+
+The data used in this project comes from the following Kaggle dataset:
+
+**[Airbnb Listings Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)**
+
+Please refer to the dataset's page on Kaggle for more details and licensing information related to the data.
 
 ## License
 
